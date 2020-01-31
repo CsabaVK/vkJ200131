@@ -1,0 +1,5 @@
+Hotel Margit;2000;2500
+Edina Panzió;1500;3000
+Baltazár Hotel;1800;2900
+Hotel Mókuska;2500;5200
+Vámpír Panzió;1200;2500
